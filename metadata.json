@@ -1,0 +1,6 @@
+{
+  "name": "Économétrie 1 - Guide de Révision & Préparation aux Examens",
+  "description": "Fiche de révision complète, résumés de chapitres, définitions clés, quiz d'examen et calculateurs de tests statistiques (Student & Fisher) pour le cours d'Économétrie 1 - FEG Safi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
